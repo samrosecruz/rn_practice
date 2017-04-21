@@ -65,13 +65,6 @@ const styles = StyleSheet.create({
 
   primary: {
     backgroundColor: styleUtils.Color.primaryRed,
-    color: 'white'
-  },
-
-
-
-  secondary: {
-    backgroundColor: styleUtils.Color.primaryRed
   },
 
   buttonText: {

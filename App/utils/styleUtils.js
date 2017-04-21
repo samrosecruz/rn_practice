@@ -1,4 +1,3 @@
-
 export const Color = {
   primaryRed: '#EF3E3E',
   gray: '#CECECE',
